@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TV2
-https://onlinestream.live/play.m3u8?s=b1fb66b9e7024bbf88cab989fc46b84b&id=6143&ch=1&ext=.m3u
+https://cdn.mediaklikk.org:2082/tv2_2ITMwkjM.m3u8
 #EXTINF:-1,RTL
-https://onlinestream.live/play.m3u8?s=401886896aeeaa614fcd124734df94c1&id=6141&ch=1&ext=.m3u
+https://cdn.mediaklikk.org:2082/rtl_2ITMwkjM.m3u8
 #EXTINF:-1,M4 Sport
-https://onlinestream.live/play.m3u8?s=4dda34390a6af0200c08392b73c711b9&id=5903&ch=5&ext=.m3u
+https://cdn.mediaklikk.org:2082/m4_2ITMwkjM.m3u8
 
