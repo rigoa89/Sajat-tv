@@ -8,14 +8,14 @@ http://46.149.191.217:9005/play/a01r
 #EXTINF:-1,RTL3
 http://46.149.191.217:9005/play/a01t
 #EXTINF:-1,M2
-http://88.212.15.19/live/m2_hun/index.m3u
+http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1,M4 Sport
-http://88.212.15.19/live/m4_hun/index.m3u
+http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1,M5
-http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1,Oxigen music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1,DANCE TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,Trimedio tv
-https://stream.streaming4u.hu/TriMedioTV/index.m3u
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
