@@ -11,3 +11,5 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,Trimedio tv
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1,Xtrema action
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
