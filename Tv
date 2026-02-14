@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,M2
-http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1,M4 Sport
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1,M5
@@ -13,3 +11,5 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1,Xtrema action
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,M2
+http://88.212.15.19/live/m2_hun/index.m3u8
