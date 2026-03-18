@@ -13,6 +13,8 @@ http://88.212.15.19/live/m2_hun/index.m3u8
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1,M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,Duna
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
 #EXTINF:-1,Oxigen music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1,DANCE TV
