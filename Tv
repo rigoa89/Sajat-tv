@@ -1,70 +1,70 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2.png",TV2
+#EXTINF:-1 tvg-id="tv2.hu" tvg-name="TV2",TV2
 http://46.149.191.217:9005/play/a01q
 
-#EXTINF:-1 tvg-id="rtl.hu" tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl.png",RTL
+#EXTINF:-1 tvg-id="rtl.hu" tvg-name="RTL",RTL
 http://46.149.191.217:9005/play/a018
 
-#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL Kettő" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl2.png",RTL Kettő
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL Kettő",RTL Kettő
 http://46.149.191.217:9005/play/a01r
 
-#EXTINF:-1 tvg-id="rtl3.hu" tvg-name="RTL Három" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl3.png",RTL Három
+#EXTINF:-1 tvg-id="rtl3.hu" tvg-name="RTL Három",RTL Három
 http://46.149.191.217:9005/play/a01t
 
-#EXTINF:-1 tvg-id="m2.hu" tvg-name="M2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m2.png",M2
+#EXTINF:-1 tvg-id="m2.hu" tvg-name="M2",M2
 http://88.212.15.19/live/m2_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4 Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m4sport.png",M4 Sport
+#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4 Sport",M4 Sport
 http://88.212.15.19/live/m4_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m5.png",M5
+#EXTINF:-1 tvg-id="m5.hu" tvg-name="M5",M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="duna.hu" tvg-name="DUNA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/duna.png",DUNA
+#EXTINF:-1 tvg-id="duna.hu" tvg-name="DUNA",DUNA
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
 
-#EXTINF:-1 tvg-name="OXIGEN Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Oxygen_Music_logo.png",OXIGEN Music
+#EXTINF:-1 tvg-name="OXIGEN Music",OXIGEN Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
-#EXTINF:-1 tvg-name="TRIMEDIO Tv" tvg-logo="https://via.placeholder.com/300x150?text=TRIMEDIO",TRIMEDIO Tv
+#EXTINF:-1 tvg-name="TRIMEDIO Tv",TRIMEDIO Tv
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 
-#EXTINF:-1 tvg-id="dancetv.uk" tvg-name="DANCE Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Dance_TV_logo.png",DANCE Tv
+#EXTINF:-1 tvg-id="dancetv.uk" tvg-name="DANCE Tv",DANCE Tv
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
-#EXTINF:-1 tvg-name="KISS Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kiss_TV_logo.png/320px-Kiss_TV_logo.png",KISS Tv
+#EXTINF:-1 tvg-name="KISS Tv",KISS Tv
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 
-#EXTINF:-1 tvg-name="MOOZ Dance" tvg-logo="https://via.placeholder.com/300x150?text=MOOZ",MOOZ Dance
+#EXTINF:-1 tvg-name="MOOZ Dance",MOOZ Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 
-#EXTINF:-1 tvg-name="XTREMA Action" tvg-logo="https://via.placeholder.com/300x150?text=XTREMA",XTREMA Action
+#EXTINF:-1 tvg-name="XTREMA Action",XTREMA Action
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CITY Éden action" tvg-logo="https://via.placeholder.com/300x150?text=CITY+EDEN",CITY Éden action
+#EXTINF:-1 tvg-name="CITY Éden action",CITY Éden action
 https://cityeden.catcast.tv/content/41333/index.m3u8
 
-#EXTINF:-1 tvg-name="CITY Éden fantastic" tvg-logo="https://via.placeholder.com/300x150?text=CITY+EDEN",CITY Éden fantastic
+#EXTINF:-1 tvg-name="CITY Éden fantastic",CITY Éden fantastic
 https://cityeden.catcast.tv/content/45268/index.m3u8
 
-#EXTINF:-1 tvg-name="ALPHA Cinema" tvg-logo="https://via.placeholder.com/300x150?text=ALPHA",ALPHA Cinema
+#EXTINF:-1 tvg-name="ALPHA Cinema",ALPHA Cinema
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-#EXTINF:-1 tvg-name="CINEMA" tvg-logo="https://via.placeholder.com/300x150?text=CINEMA",CINEMA
+#EXTINF:-1 tvg-name="CINEMA",CINEMA
 http://catchup.videoline.ru/cinema/playlist.m3u8
 
-#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m1.png",M1
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="M1",M1
 https://www.youtube.com/@M1-Hirado/live
 
-#EXTINF:-1 tvg-name="SONY Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sony_Channel_logo.png/320px-Sony_Channel_logo.png",SONY Cine
+#EXTINF:-1 tvg-name="SONY Cine",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="HBO Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HBO_logo.svg",HBO Usa
+#EXTINF:-1 tvg-name="HBO Usa",HBO Usa
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-name="HBO 2 Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HBO_logo.svg",HBO 2 Usa
+#EXTINF:-1 tvg-name="HBO 2 Usa",HBO 2 Usa
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m4sport.png",M4
+#EXTINF:-1 tvg-id="m4sport.hu" tvg-name="M4",M4
 https://cdn.mediaklikk.org:2082/m4_2ITMzUjN.m3u8
