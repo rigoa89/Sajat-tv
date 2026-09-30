@@ -56,11 +56,20 @@ http://88.212.15.19/live/viasat3/index.m3u8
 #EXTINF:-1,Viasat 6
 http://88.212.15.19/live/viasat6/index.m3u8
 #EXTM3U
-#EXTINF:-1,Viasat film
+#EXTINF:-1,Axn crime
 http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTM3U
-#EXTINF:-1,
-
+#EXTINF:-1,Amc
+http://88.212.15.19/live/amc_hun/index.m3u8
+#EXTM3U
+#EXTINF:-1,Axn
+http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTM3U
+#EXTINF:-1,BBC Earth
+http://88.212.15.19/live/bbce_hun/index.m3u8
+#EXTM3U
+#EXTINF:-1,PRIME
+http://88.212.15.19/live/prime/index.m3u8
 #EXTM3U
 #EXTINF:-1,
 
@@ -69,3 +78,16 @@ http://88.212.15.19/live/viasat_film/index.m3u8
 
 #EXTM3U
 #EXTINF:-1,
+
+#EXTM3U
+#EXTINF:-1,
+
+#EXTM3U
+#EXTINF:-1,
+
+
+
+
+
+
+
